@@ -29,7 +29,7 @@ Erstellen Sie auf Basis der Anwendung "Kursbuch Medieninformatik" eine Webanwend
 
 Die folgende Abbildung zeigt einen Ausschnitt aus dem User Interface:
 
-![](Beispiel.png){ height=8cm }
+![](Beispiel.png){ height=12cm }
 
 
 
