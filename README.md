@@ -25,7 +25,7 @@ header-includes: |
 
 ## Aufgabe: Eine einfache Musikdatenbank
 
-Erstellen Sie auf Basis der Anwendung "Kursbuch Medieninformatik" eine Webanwendung, in der die Künstler/Bands sowie deren Musikalben dargestellt werden. Erstellen Sie eine eigene Datenbank mit Ihren Lieblingskünstlern (mindestens 3) und Ihren Alben (mindestens zwei pro Künstler) und halten Sie sich dabei an den Aufbau der Relationen "artists" und "albums" der  Datenbank Chinook aus SL4. Sie können auch gerne Künstler aus der Chinook Datenbank verwenden. Zusätzlich dazu soll man in der Lage sein neue Künstler mit entsprechenden Alben zu definieren, welche anschließend in Ihrer Liste angezeigt werden.
+Erstellen Sie auf Basis der Anwendung "Kursbuch Medieninformatik" aus der Vorlesung eine Webanwendung, in der die Künstler/Bands sowie deren Musikalben dargestellt werden. Erstellen Sie eine eigene Datenbank mit Ihren Lieblingskünstlern (mindestens 3) und dazugehörigen Alben (mindestens zwei pro Künstler) und halten Sie sich dabei an den Aufbau der Relationen "artists" und "albums" der  Datenbank Chinook aus SL4. Sie können auch gerne Künstler aus der Chinook Datenbank verwenden. Als Nutzer der Anwendung soll man in der Lage sein neue Künstler sowie Alben zu definieren, welche anschließend in Ihrer Liste angezeigt werden.
 
 Die folgende Abbildung zeigt einen Ausschnitt aus dem User Interface:
 
@@ -37,7 +37,7 @@ Die folgende Abbildung zeigt einen Ausschnitt aus dem User Interface:
 
 Fügen Sie der Anwendung einen Header hinzu und bauen Sie ebenfalls [\textcolor{blue}{Collapsibles}](https://www.w3schools.com/howto/howto_js_collapsible.asp) ein, um das Aufklappen der Liste zu realisieren und die Alben des entsprechenden Künstlers darzustellen. Nutzen Sie für die Gestaltung der zur Laufzeit gerenderten Elemente das [\textcolor{blue}{Template-Tag}](https://developer.mozilla.org/de/docs/Web/HTML/Element/template). 
 
-Achten Sie auf eine aussagekräftige Variablenbenennung und auf die Auslagerung von Methoden und verwenden Sie passende URLs, um die Ergebnisse der Datenbankanfragen abzurufen.
+Achten Sie auf eine aussagekräftige Variablenbenennung und auf die Auslagerung von Methoden.
 
 *Abgabekriterien:*
 
